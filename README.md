@@ -9,10 +9,10 @@ Building change detection using aerial image data.
 ## Train Data Description
 - **Input Images**: Before/After aerial images (jpg file format)
 - **Output Images**: Change segmented by number 0, 1, 2, 3 (jpg file format)
-  - Unchanged area: 0
-  - Buildings (new) : 1
-  - Buildings (changed) : 2
-  - Buildings (destroyed) : 3
+  - Unchanged area      : 0
+  - New Buildings       : 1
+  - Changed Buildings   : 2
+  - Destroyed Buildings : 3
 
 
 ## Data Augmentation Technique
