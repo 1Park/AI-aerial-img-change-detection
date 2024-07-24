@@ -13,7 +13,8 @@ Building change detection using aerial image data.
   - New Buildings       : 1
   - Changed Buildings   : 2
   - Destroyed Buildings : 3
-
+![Sample Input] (https://raw.githubusercontent.com/1Park/ai-aerial-img-change-detection/main/data/train/x/2015_DMG_1LB_000006.png)
+![Sample Output] (https://raw.githubusercontent.com/1Park/ai-aerial-img-change-detection/main/2015_DMG_1LB_000006%20-%20Copy.png)
 
 ## Data Augmentation Technique
 
