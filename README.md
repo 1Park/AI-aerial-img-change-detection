@@ -1,6 +1,8 @@
 # AI Aerial Image Change Detection
 Detecting building changes using aerial image data (2022 Military AI Contest Korea)
 
+Contributers : 남현재, 최한승, 이호은, 박원 (3크루1야근 팀)
+
 Keywords : `Computer Vision` `Change Detection`  `Image Segmentation` `CNN` `Unet` `Ensemble model` 
 
 
